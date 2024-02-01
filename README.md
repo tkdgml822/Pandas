@@ -1,2 +1,2 @@
 판다스 인 액션
-1장 :white_check_mark:
+<b>1장</b> 판다스 기본 다지기 :white_check_mar
